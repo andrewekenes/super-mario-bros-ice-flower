@@ -1,5 +1,6 @@
 {
     "name": "super mario bros. ice flower",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "device": "*"
